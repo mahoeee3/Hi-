@@ -8,6 +8,6 @@
 - JavaScript
 - HTML
 - CSS
-- FuelPHP
 - CodeIgniter
 - jQuery
+- FuelPHP
